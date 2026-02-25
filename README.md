@@ -1,5 +1,14 @@
 # 🚗 Car Showroom Sales Analysis (SQL Project)
-
+## Table of Content
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Tools & Technologies](#tools-and-technologies)
+- [Dataset Description](#dataset-description)
+- [Key Business Questions Answered](#key-business-questions-answered)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [SQL Skills Demonstrated](#sql-skills-demonstrated)
+  
 ## 📌 Project Overview
 This project analyzes sales performance and customer behavior for a car showroom using SQL.  
 The objective is to extract meaningful business insights from transactional data and demonstrate practical SQL skills relevant to data analyst roles.
@@ -107,4 +116,4 @@ Contains transaction-level sales data.
 
 ## ## 👤 Author
 **Olawande Eunice**  
-Aspiring Data Analyst | SQL | Data Analysis  
+Data Analyst
